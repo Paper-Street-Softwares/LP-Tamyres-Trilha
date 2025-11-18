@@ -1,6 +1,6 @@
 {
   "infos": {
-    "adress": "Rua São José, nº 40, <br/> 4º Andar, Centro  <br/> Rio de Janeiro - RJ,  <br/> CEP: 20010-020",
+    "adress": "Avenida Marechal Câmara, <br/> nº 160, Sala 1107, Centro, <br/> Rio de Janeiro - RJ, <br/> CEP: 20010-020",
     "adressSecundario": "A_Definir",
     "expediente": "Segunda a sexta-feira: <br/> 8h às 18h",
     "expedienteSecundario": "A_Definir",
@@ -32,14 +32,14 @@
     "subtitle": "Cada caso é único, mas o foco é sempre o mesmo: resolver com estratégia, clareza e resultado real.",
     "card1": {
       "title": "Direito Tributário",
-      "subtitle": "Soluções eficazes em tributos e obrigações fiscais.",
+      "subtitle": "Recuperação de crédito tributário e planejamento tributário para Reforma.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
     },
     "card2": {
-      "title": "Direito Digital e Proteção de Dados",
-      "subtitle": "Segurança jurídica para sua presença no ambiente digital.",
+      "title": "Direito Empresarial",
+      "subtitle": "Assessoria completa para proteger e fortalecer a sua empresa.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
@@ -67,8 +67,8 @@
       "buttonLabel": "A_Definir"
     },
     "card6": {
-      "title": "Consultoria Jurídica",
-      "subtitle": "Orientação estratégica e preventiva em assuntos legais.",
+      "title": "Direito Digital e Proteção de Dados",
+      "subtitle": "Segurança jurídica para sua presença no ambiente digital.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
@@ -84,7 +84,7 @@
     "imagem": {
       "alt": "imagem about"
     },
-    "miniTag": "QUEM É A DRA. TAMYRES TRILHA RAMOS",
+    "miniTag": "QUEM É A DRA. TAMYRES RAMOS",
     "title": "Minha trajetória",
     "subtitle": "Uma jornada que une experiência, propósito e vontade real de resolver.",
     "buttonModalLabelAbout": "Continuar lendo",
@@ -110,7 +110,7 @@
     "description": "A_Definir"
   },
   "ctaSecondary": {
-    "title": "<span class=\"text-primary font-bold\">Dúvidas?</span> Entre em contato conosco para podermos lhe ajudar, <span class=\"text-primary font-bold\">estamos te esperando.</span>",
+    "title": "<span class=\"text-bgSectionDark font-bold\">Dúvidas?</span> Entre em contato conosco para podermos lhe ajudar, <span class=\"text-bgSectionDark font-bold\">estamos te esperando.</span>",
     "subtitleDireitaPartes": ["E N T R E", "E M", "C O N T A T O", "V I A"],
     "titleDireita": "WhatsApp",
     "ctaButtonText": "Entre em Contato"
